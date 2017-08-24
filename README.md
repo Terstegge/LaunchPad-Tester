@@ -1,6 +1,6 @@
 # LaunchpadTester
 This is a small TI-LaunchPad compatible boosterpack board,
-which can be used for testing all GPIO pins on a TI LauchPad.
+which can be used for testing all GPIO pins on a TI LaunchPad.
 
 ![LaunchpadTester as 3D model](pictures/LaunchpadTester.png)
 
