@@ -20,3 +20,5 @@ Launchpad, we at least know that these two pins are not working :).
 When the CY8C9540A is detected by software, we can test every single
 Launchpad pin in input- and output-mode.
 
+The 3-color LED can be used to show the results of the tests.
+
