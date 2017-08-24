@@ -22,3 +22,6 @@ Launchpad pin in input- and output-mode.
 
 The 3-color LED can be used to show the results of the tests.
 
+This project contains the hardware design files, which were developed
+using [KiCad EDA](http://kicad-pcb.org/). The related software will be
+published in a separate project.
