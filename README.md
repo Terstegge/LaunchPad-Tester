@@ -2,7 +2,7 @@
 This is a small TI-LaunchPad compatible boosterpack board,
 which can be used for testing all GPIO pins on a TI LauchPad.
 
-![LaunchpadTester as 3D model](images/LaunchpadTester.png)
+![LaunchpadTester as 3D model](pictures/LaunchpadTester.png)
 
 Background: When using TI Launchpads for educational purposes,
 some of the IO-pins might be destroyed by student. So I needed
