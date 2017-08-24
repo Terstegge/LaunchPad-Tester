@@ -15,7 +15,8 @@ this board. The CY8C9540A is a GPIO expander with 40 IO pins and a
 (slow) I2C interface. It also supports a programmable PWM signal on
 all pins. Two of the Launchpad IO pins are used for the I2C interface
 to operate the CY8C9540A. When the CY8C9540A is not detected by the
-Launchpad, we at least know that these to pins are not working :).
+Launchpad, we at least know that these two pins are not working :).
+
 When the CY8C9540A is detected by software, we can test every single
 Launchpad pin in input- and output-mode.
 
