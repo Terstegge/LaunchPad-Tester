@@ -1,5 +1,5 @@
-Drill report for /home/andreas/github/LauchpadTester/LaunchpadTester.kicad_pcb
-Created on Do 24 Aug 2017 17:13:13 CEST
+Drill report for /home/andreas/github/LaunchPad-Tester/LaunchPad-Tester.kicad_pcb
+Created on Fr 08 Sep 2017 10:59:02 CEST
 
 Copper Layer Stackup:
     =============================================================
@@ -7,7 +7,7 @@ Copper Layer Stackup:
     L2 :  B.Cu                      back
 
 
-Drill file 'LaunchpadTester.drl' contains
+Drill file 'LaunchPad-Tester.drl' contains
     plated through holes:
     =============================================================
     T1  0,40mm  0,016"  (3 holes)
@@ -17,7 +17,7 @@ Drill file 'LaunchpadTester.drl' contains
     Total plated holes count 47
 
 
-Drill file 'LaunchpadTester-NPTH.drl' contains
+Drill file 'LaunchPad-Tester-NPTH.drl' contains
     unplated through holes:
     =============================================================
 
